@@ -2,13 +2,13 @@
 [EN](#en)
 
 # *JA*
-ZIPファイルに同封のReadmeに本ツールに関する詳細が載っています．
+ZIPファイルに同封の[Readme](MAIN/01-ReadMe.txt)に本ツールに関する詳細が載っています．
 ## 概要
 UTF-8N（UTF-8のBOMなし）で保存されたtxt, Cファイル等のテキストを枠囲みします．<br>
 日本語（全角）と半角が混在しているファイルにも対応しています．
 
 ## インストール
-ZIPをダウンロードし，展開してください．
+[Releases](https://github.com/sssscccc210/Text-Frame-Generator/releases)より，最新バージョンのZIPをダウンロードし，展開してください．
 
 ## 使用方法
 
@@ -32,7 +32,7 @@ Frame text in txt, C, ..., that is saved as UTF-8N (without UTF-8 BOM file).<br>
 Files with mixed Japanese (full-width) and half-width characters are also supported.
 
 ## Install
-Download and extract the ZIP file.
+Download and extract the latest version of the ZIP from [Releases](https://github.com/sssscccc210/Text-Frame-Generator/releases).
 
 ## How to use
 1. Move the file you want to frame in the expanded folder (move it to the same folder as **`EXECUTE.bat`**). 
