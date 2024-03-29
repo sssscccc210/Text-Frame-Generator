@@ -18,7 +18,7 @@ rem exe実行時はUTF-8
 chcp 65001
 
 rem "call"だと、exeが終了するまで待機する
-call TFG_v3.exe %~1
+call TFG_v300.exe %~1
 
 rem 終了コードを取得0：成功, 1：エラー
 if %ERRORLEVEL%==0 (
