@@ -13,11 +13,9 @@ UTF-8N（UTF-8のBOMなし）で保存されたtxt, Cファイル等のテキス
 
 ## 使用方法
 
-1. 展開したフォルダに枠囲みしたいファイルを移動します（ **`EXECUTE.bat`** と同一のフォルダに移動）．
-2. 枠囲みしたいファイルを **`EXECUTE.bat`** にドラッグ＆ドロップします．
-3. 枠囲み処理されたtxtファイルが出力されます（**`XXX.export.txt`**）．<br>
-出力に成功した場合，自動でファイルを開きます．<br>
-エラーが発生した場合，コンソールに表示されます．
+1. 展開したフォルダに枠囲みしたいファイルを移動します（ **`TFG_vxxx.exe`** と同一のフォルダに移動）．
+2. 枠囲みしたいファイルを **TFG_vxxx.exe`** にドラッグ＆ドロップします．
+3. 枠囲み処理されたtxtファイルが出力されます（**`XXX.export.txt`**）．
 
 ## 注意
 1. ファイルは，**UTF-8N**（UTF-8のBOMなし）で保存してください．BOMありのUTF-8では，先頭部分にバグが起こります（手作業で取り除けますが）．
@@ -39,11 +37,9 @@ Files with mixed Japanese (full-width) and half-width characters are also suppor
 Download and extract the latest version of the ZIP from [Releases](https://github.com/sssscccc210/Text-Frame-Generator/releases).
 
 ## How to use
-1. Move the file you want to frame in the expanded folder (move it to the same folder as **`EXECUTE.bat`**). 
-2. Drag and drop the file to be framed onto **`EXECUTE.bat`**. 
-3. A framed txt file will be output (**`XXX.export.txt`**).<br>
-If the output is successful, the file will be opened automatically.<br>
-If an error occurs, it will be displayed in the console.
+1. Move the file you want to frame in the expanded folder (move it to the same folder as **`TFG_vxxx.exe`**). 
+2. Drag and drop the file to be framed onto **`TFG_vxxx.exe`**. 
+3. A framed txt file will be output (**`XXX.export.txt`**).
 
 ## Attention
 1. Files should be saved as **UTF-8N** (UTF-8 without BOM). UTF-8 with BOM causes a bug at the beginning (which can be removed manually).
@@ -55,3 +51,4 @@ It is better to move the file to be framed into the expanded folder.<br>
 
 ---
 2023/12/17.
+2024/03/29 updated.
