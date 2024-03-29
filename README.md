@@ -50,5 +50,5 @@ It is better to move the file to be framed into the expanded folder.<br>
 <img width="500" alt="img02_en" src="https://github.com/sssscccc210/Text-Frame-Generator/assets/78594586/d29078de-68cc-4ee3-94e7-8046f5756481">
 
 ---
-2023/12/17.
+2023/12/17.<br>
 2024/03/29 updated.
